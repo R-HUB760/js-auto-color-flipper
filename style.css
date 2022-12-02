@@ -1,0 +1,10 @@
+.cent{
+  min-height: 40vw;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width:778px){
+  .cent{
+    min-height: 90vw;
+  }
+}
